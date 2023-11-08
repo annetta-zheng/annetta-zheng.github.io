@@ -222,6 +222,18 @@ const bigProjects = {
         }
       ]
     },
+    {
+      image: require("./assets/images/jekyllLogo.png"),
+      projectName: "Other Projects",
+      projectDesc: "",
+      footerLink: [
+        {
+          name: "View More",
+          url: "https://annetta-zheng.github.io/project-list/"
+        }
+      ]
+    },
+    
   ]
   ,
   display: true // Set false to hide this section, defaults to true
