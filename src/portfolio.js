@@ -196,7 +196,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Project Demo",
-          url: "https://annetta-zheng.github.io/blog/software%20engineering/hackthon/challenge/javascript/eth"
+          url: "https://annetta-zheng.github.io/project-list/blog/software%20engineering/hackthon/challenge/javascript/eth"
         }
         //  you can add extra buttons here.
       ]
@@ -208,7 +208,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Project Demo",
-          url: "https://annetta-zheng.github.io/blog/data%20science/hackthon/challenge/amex"
+          url: "https://annetta-zheng.github.io/project-list/blog/data%20science/hackthon/challenge/amex"
         }
       ]
     },
