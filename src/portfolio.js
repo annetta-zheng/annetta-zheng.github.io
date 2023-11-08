@@ -52,15 +52,15 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
-  // skills: [
-  //   emoji(
-  //     "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-  //   ),
-  //   emoji("⚡ Natrual Language Processing and Machine Learning"),
-  //   // emoji(
-  //   //   "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-  //   // )
-  // ],
+  skills: [
+    emoji(
+      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+    ),
+    emoji("⚡ Recommendation Systems and Sentiment Analysis with Natrual Language Processing on AWS"),
+    emoji(
+      "⚡ Data Visualization with Tableau, Matplotlib, Seaborn, Plotly, and Bokeh"
+    )
+  ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
@@ -173,7 +173,8 @@ const openSource = {
 // Some big projects you have worked on
 const bigProjects = {
   title: "Big Projects and Hackathons 🏆",
-  subtitle: ["An NGO that I helped to create the tech.",<br/>,'Hackathons, Certifications, Award Letters and Some Cool Stuff that I have done!'],
+  subtitle: ["An NGO Website, Hackathons, Challenges, Certifications and Some Cool Stuff that I have done!"],
+  projlist: [{name: "VIEW FULL LIST", url: "https://annetta-zheng.github.io/project-list"}],
   projects: 
   [
     {

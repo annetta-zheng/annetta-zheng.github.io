@@ -31,6 +31,24 @@ export default function StartupProject() {
           >
             {bigProjects.subtitle}
           </p>
+          {bigProjects.projlist ? (
+          <div className="project-card-footer">
+            {bigProjects.projlist.map((link, i) => {
+              return (
+                <span
+                  key={i}
+                  className={
+                    isDark ? "dark-mode project-tag" : "project-tag"
+                  }
+                  onClick={() => openUrlInNewTab(link.url)}
+                >
+                  {link.name}
+                </span>
+              );
+            })}
+          </div>
+        ) : null}
+          
 
           <div className="projects-container">
             {bigProjects.projects.map((project, i) => {
