@@ -6,7 +6,7 @@ import emoji from "react-easy-emoji";
 // waveAnimation.json
 // import splashAnimation from "./assets/lottie/waveAnimation";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
-import projectJson from './projects.json';
+// import projectJson from './projects.json';
 // Splash Screen
 
 const splashScreen = {
