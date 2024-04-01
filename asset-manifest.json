@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3cf13eba.css",
-    "main.js": "/static/js/main.3d0533c9.js",
+    "main.js": "/static/js/main.84f76ddb.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.3785e603.chunk.js": "/static/js/64.3785e603.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -13,7 +13,9 @@
     "static/media/jekyllLogo.png": "/static/media/jekyllLogo.97ee2513e402d925562e.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/cornellLogo.png": "/static/media/cornellLogo.e8638ecd6dc0a6524ad5.png",
+    "static/media/optiverKaggle.png": "/static/media/optiverKaggle.98c47015aa9023a0230e.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/MuffinLogo.png": "/static/media/MuffinLogo.b9703f1413b94f5f9618.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
     "static/media/UCBerkeleyLogo.png": "/static/media/UCBerkeleyLogo.a481bc23578ef12f393a.png",
@@ -27,7 +29,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3cf13eba.css.map": "/static/css/main.3cf13eba.css.map",
-    "main.3d0533c9.js.map": "/static/js/main.3d0533c9.js.map",
+    "main.84f76ddb.js.map": "/static/js/main.84f76ddb.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.3785e603.chunk.js.map": "/static/js/64.3785e603.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.3cf13eba.css",
-    "static/js/main.3d0533c9.js"
+    "static/js/main.84f76ddb.js"
   ]
 }
