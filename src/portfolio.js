@@ -58,7 +58,7 @@ const skillsSection = {
     ),
     emoji("⚡ Recommendation Systems and Sentiment Analysis with Natrual Language Processing on AWS"),
     emoji(
-      "⚡ Data Visualization with Tableau, Matplotlib, Seaborn, Plotly, and Bokeh"
+      "⚡ Data Visualization with Tableau, Power BI, Matplotlib, Seaborn, and Plotly"
     )
   ],
 
@@ -173,10 +173,32 @@ const openSource = {
 // Some big projects you have worked on
 const bigProjects = {
   title: "Big Projects and Hackathons 🏆",
-  subtitle: ["An NGO Website, Hackathons, Challenges, Certifications and Some Cool Stuff that I have done!"],
+  subtitle: ["Startup and NGO Websites, Hackathons, Challenges, Certifications and Some Cool Stuff that I have done!"],
   projlist: [{name: "VIEW FULL LIST", url: "https://annetta-zheng.github.io/project-list"}],
   projects: 
   [
+    {
+      image: require("./assets/images/MuffinLogo.png"),
+      projectName: "Muffin Health",
+      projectDesc: "Full Stack Development for my startup Muffin Health, a Vet Marketplace for Pet Owners and scheduling SaaS for Vets. Also with a fintuned AI Agent (LLM & Image) chatbot for pet owners to ask questions.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://muffin-health.vercel.app"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/optiverKaggle.png"),
+      projectName: "Optiver - Trading at the Close",
+      projectDesc: "🥈 LGBM + CNN on time-series data. Adjusted prices, assessed supply and demand dynamics, and identified trading opportunities.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.kaggle.com/competitions/optiver-trading-at-the-close/overview"
+        }
+      ]
+    },
     {
       image: require("./assets/images/LavenderLogo.jpeg"),
       projectName: "Lavender Alliance @ Berkeley",
