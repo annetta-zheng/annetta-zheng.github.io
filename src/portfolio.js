@@ -179,12 +179,31 @@ const bigProjects = {
   [
     {
       image: require("./assets/images/MuffinLogo.png"),
-      projectName: "Muffin Health",
-      projectDesc: "Full Stack Development for my startup Muffin Health, a Vet Marketplace for Pet Owners and scheduling SaaS for Vets. Also with a fintuned AI Agent (LLM & Image) chatbot for pet owners to ask questions.",
+      projectName: "*Ongoing Startup Co-Founder ",
+      projectDesc: "Product Design and Full Stack Development for our startup, a vet care Marketplace + SaaS (Zocdoc for Pets). React, JavaScript, Python, Firebase. Also with a fintuned LLM chatbot for pet owners to ask questions.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "https://muffin-health.vercel.app"
+          name: "Startup Page",
+          url: "https://muffin-vet.vercel.app"
+        },
+        {
+          name: "MVP Demo",
+          url: "https://muffin-health-vet-solutions.web.app"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/attuned-logo.webp"),
+      projectName: "Weill Cornell Research Assistant *Ongoing*",
+      projectDesc: "Machine Learning Engineering for transgender voice training. TensorFlow CNN for voice pitch and tone analysis. Full Stack Development with React, Redux, Nodejs, REST API with Express, PostgreSQL, and AWS S3.",
+      footerLink: [
+        {
+          name: "Model",
+          url: "https://www.kaggle.com/code/annettazheng/attuned"
+        },
+        {
+          name: "Web App Demo",
+          url: "https://drive.google.com/file/d/1GMVd24Kg8KF0_LT6_GNAmt0HN2xbAqnz/view?usp=sharing"
         }
       ]
     },
